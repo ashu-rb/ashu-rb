@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aayush Patel,first year Computer Enginnering B.Tech student at Delhi Technological University(Formely known as DCE),India.
 Know C,C++,JS,HTML,CSS,PHP,MYSQL.
-member of Coleege's Technical Fest Team.
+member of Campus Technical Fest Team.
 - 👀 I’m interested in open source contribution,full stack developer,competitive programming.
 - 🌱 I’m currently learning DSA,JS FRAME WORKS.
 - 💞️ I’m looking to collaborate on various projects,start ups.
