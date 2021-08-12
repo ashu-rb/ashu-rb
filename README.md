@@ -4,7 +4,7 @@ member of Campus Technical Fest Team.
 - 👀 I’m interested in open source contribution,full stack developer,competitive programming.
 - 🌱 I’m currently learning DSA,JS FRAME WORKS.
 - 💞️ I’m looking to collaborate on various projects,start ups.
-- 📫 Contact me on Instagram,insta id-aayush_901ap.
+- 📫 My Portfolio-https://ashu-rb.github.io/aayushpatel913.github.io/
 
 
 <!---
