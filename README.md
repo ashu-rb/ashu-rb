@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashu-rb" alt="ashu-rb" /></a> </p>
 
-- 👨‍💻 All of my projects are available at http://foolbecool.me/MyPortfolio/
+- 👨‍💻 All of my projects are available at https://devpost.com/apaayush2003?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav
 
 - 📫 How to reach me **901ayush@gmail.com**
 
